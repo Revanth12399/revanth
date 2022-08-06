@@ -5,13 +5,15 @@ function App() {
   return (
     <div className="App">
      <h1>ENTER YOUR NAMES</h1>
-
-
-
-
+     <h1>REVANTH</h1>
      <h4>venkat </h4>
 
-     <h1>i am shanmukh</h1>
+    <h1>i am shanmukh</h1>
+
+
+
+
+    
     </div>
   );
 }
