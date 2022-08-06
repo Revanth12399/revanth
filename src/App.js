@@ -10,7 +10,7 @@ function App() {
 
     <h1 style="color:blue;">Josyula Shanmukh</h1>
 
-
+<caption>all are my frnds</caption>
 
 
     
