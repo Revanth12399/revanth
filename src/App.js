@@ -8,7 +8,7 @@ function App() {
      <h1>REVANTH</h1>
      <h4>venkat </h4>
 
-    <h1 style="color:blue;">Josyula Shanmukh</h1>
+    <h1>Josyula Shanmukh</h1>
 
 <caption>all are my frnds</caption>
 
